@@ -37,6 +37,7 @@ $ cd ..
 $ cd server
 $ npm install
 $ cd ..
+$ mkdir db
 ```
 
 After that, run node in the server side:
